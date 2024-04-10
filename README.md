@@ -1,2 +1,18 @@
-# react-projeto-com-typescript-e-api-do-github
-No projeto vamos utilizar vários recursos: #ReactJS, #TypeScript, #API do GitHub e outros. Reprodução da aaula do vídeo https://www.youtube.com/watch?v=3sQITRihW_A
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+** Fonte: **
+- https://www.youtube.com/watch?v=3sQITRihW_A
+
+
+```bash
+$ npm create vite@latest
+$ npm install react-router-dom
+$ npm install react-icons
+```
